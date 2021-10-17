@@ -1,0 +1,27 @@
+{
+  "name": "Glide",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {},
+  "color_schemes": {
+    "Neutral": {
+      "primary": "202124",
+      "secondary": "ffffff",
+      "tertiary": "000000",
+      "quaternary": "12CCE5",
+      "header_background": "10474F",
+      "header_primary": "ffffff",
+      "highlight": "F9EE8E",
+      "danger": "FFD2E1",
+      "success": "887EF9",
+      "love": "FF6C44"
+    }
+  },
+  "modifiers": {},
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}

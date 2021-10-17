@@ -1,0 +1,89 @@
+a.title {
+  font-weight: 500;
+  font-size: 110%;
+
+  font-size: 110%;
+}
+
+a.fancy-title {
+  font-family: "ES Build";
+  font-size: 130%;
+}
+
+.header-title > .topic-link {
+  font-family: "ES Build";
+}
+
+.topic-body > .contents {
+  font-size: 110%;
+}
+
+button.widget-button,
+.widget-button .d-icon,
+.widget-button .d-button-label,
+.list-controls .btn {
+  color: #4c4d50;
+}
+
+.topic-list-item.visited a.title {
+  color: #626366 !important;
+}
+
+.topic-list-item .category-name {
+  color: #35363a;
+  font-size: 110%;
+}
+
+.badge-category-bg {
+  border-radius: 10px;
+}
+
+.nav > li > a,
+.combo-box-header,
+.dropdown-select-box,
+.select-kit.single-select.dropdown-select-box .select-kit-header,
+.list-controls .btn {
+  border-radius: 8px;
+}
+
+.topic-list .posters > a {
+  margin-right: -8px;
+}
+.topic-list .posters > a img {
+  width: 32px;
+  height: 32px;
+}
+
+aside.onebox {
+  border-radius: 20px;
+
+  font-size: 90%;
+}
+
+aside.quote .title {
+  border-left: 0;
+  border-radius: 20px 20px 0 0;
+  padding: 20px 20px 0 20px;
+}
+
+aside.quote blockquote {
+  border-left: 0;
+  border-radius: 0 0 20px 20px;
+  padding: 10px 20px 20px 20px;
+}
+
+.topic-map {
+  border-radius: 20px;
+  overflow: hidden;
+  border: 0;
+  box-shadow: 0 8px 14px rgba(0, 0, 0, 0.1);
+}
+
+.topic-map section {
+  border: 0;
+}
+
+.topic-map nav,
+.topic-map ul {
+  padding: 10px;
+}
