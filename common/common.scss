@@ -18,11 +18,13 @@ a.fancy-title {
   font-size: 110%;
 }
 
-button.widget-button,
-.widget-button .d-icon,
-.widget-button .d-button-label,
-.list-controls .btn {
-  color: #4c4d50;
+.post-controls {
+  button.widget-button,
+  .widget-button .d-icon,
+  .widget-button .d-button-label,
+  .list-controls .btn {
+    color: #4c4d50;
+  }
 }
 
 .topic-list-item.visited a.title {
@@ -49,6 +51,7 @@ button.widget-button,
 .topic-list .posters > a {
   margin-right: -8px;
 }
+
 .topic-list .posters > a img {
   width: 32px;
   height: 32px;
