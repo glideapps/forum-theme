@@ -1,8 +1,10 @@
 a.title {
   font-weight: 500;
-  font-size: 110%;
+  font-size: 105%;
 
-  font-size: 110%;
+  .topic-list-item.visited & {
+    font-weight: 300;
+  }
 }
 
 a.fancy-title {
@@ -16,6 +18,10 @@ a.fancy-title {
 
 .topic-body > .contents {
   font-size: 110%;
+
+  a {
+    color: #12CCE5;
+  }
 }
 
 .post-controls {
@@ -25,9 +31,10 @@ a.fancy-title {
   .list-controls .btn {
     color: #4c4d50;
   }
-}
 
-.topic-list-item.visited a.title {
+  .bookmarked {
+    color: #FF6C44;
+  }
 }
 
 .topic-list-item .category-name {
