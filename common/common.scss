@@ -8,19 +8,21 @@ a.title {
 }
 
 a.fancy-title {
-  font-family: "Chromatic Grotesque";
+  font-family: Inter, -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
   font-size: 130%;
 }
 
 .header-title > .topic-link {
-  font-family: "Chromatic Grotesque";
+  font-family: Inter, -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
 }
 
 .topic-body > .contents {
   font-size: 110%;
 
   a {
-    color: #12CCE5;
+    color: #12cce5;
   }
 }
 
@@ -33,7 +35,7 @@ a.fancy-title {
   }
 
   .bookmarked {
-    color: #FF6C44;
+    color: #ff6c44;
   }
 }
 
